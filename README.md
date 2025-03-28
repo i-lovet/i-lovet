@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://i-lovet.github.io"><img width="80%" alt="Hello, I'm i-lovet. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
 I'm a self-taught passionate Full stack developer from China
 
 **About me**
@@ -31,10 +27,6 @@ I'm a self-taught passionate Full stack developer from China
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=i-lovet&repo=github-readme-stats&theme=buefy" />
-</a>
 <a href="https://github.com/i-lovet/i-lovet.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=i-lovet&repo=i-lovet.github.io&theme=buefy" />
 </a>
