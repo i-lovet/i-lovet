@@ -21,7 +21,7 @@ I'm a self-taught passionate Full stack developer from China
 
 - 💬 Ask me about anything [here](https://github.com/i-lovet/i-lovet/issues)
 
-
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-lovet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/i-lovet/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-lovet&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -30,6 +30,7 @@ I'm a self-taught passionate Full stack developer from China
 <a href="https://github.com/i-lovet/i-lovet.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=i-lovet&repo=i-lovet.github.io&theme=buefy" />
 </a>
+-->
 
 <br />
 <br />
